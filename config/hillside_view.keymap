@@ -319,7 +319,7 @@
         default_layer {
             display-name = "DEFAULT";
             bindings = <
-&kp TAB    &kp Q         &kp W          &kp E        &kp R      &kp T       /*|*/ &kp Y     &kp U        &kp I        &kp O          &kp P    &kp BSPC
+&kp TAB    &kp A         &kp A          &kp E        &kp R      &kp T       /*|*/ &kp Y     &kp U        &kp I        &kp O          &kp P    &kp BSPC
 &mo MOUSE  &kp A         &lh_pht LSFT S &lt SYMB D   &lt NAV F  &lt MOUSE G /*|*/ &kp H     &kp J        &kp K        &rh_pht LSFT L &kp SEMI &lt MOUSE SQT
 &kp LSHFT  &mltp MEDIA Z &kp X          &kp C        &kp V      &kp B       /*|*/ &kp N     &kp M        &kp COMMA    &kp DOT        &kp FSLH &kp RET
                                                      &mkp LCLK              /*|*/           &mkp RCLK
